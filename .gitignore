@@ -1,6 +1,5 @@
-large_order_data_2024.zip
-large_order_data_2024/large_order_data_10M_2024.parquet
-large_order_data_2024/top_10_spenders_per_month.parquet
+*.zip
+*.parquet
 *.csv
 *__pycache__/
 *.txt
