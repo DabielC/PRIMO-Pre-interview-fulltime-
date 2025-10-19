@@ -26,7 +26,7 @@
 
 1. ติดตั้งไลบรารีที่จำเป็น:
    ```bash
-   pip install -r requirements.txt  # ต้องมี numpy, pandas, pyarrow, tqdm
+   pip install -r requirements.txt  # ต้องมี numpy, pandas, pyarrow, tqdm, gdown
    ```
 2. สร้างชุดข้อมูล 10 ล้านแถว:
    ```bash
@@ -37,5 +37,8 @@
    python Scripts/find_top_spenders.py
    ```
 4. เปิดดูผลลัพธ์ด้วย pandas หรือโปรแกรมที่รองรับไฟล์ Parquet ได้ตามต้องการ
+
+**หรือหากต้องการใช้ Data เลยก็สามารถ run scripts download.py ได้ ใน folder large_order_data_2024**
+
 
 > หมายเหตุ: การกระจายของแบรนด์ สาขา ประเภทสินค้า และช่วงราคา ถูกตั้งค่าตามข้อมูลเชิงลึกที่ได้จาก `explore.ipynb` เพื่อให้โมเดลการจำลองสอดคล้องกับข้อมูลจริง
