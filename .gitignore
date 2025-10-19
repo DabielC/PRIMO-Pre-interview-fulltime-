@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 *.zip
 *.parquet
 *.csv
 *__pycache__/
+=======
+*.zip
+*.parquet
+*.csv
+*__pycache__/
+>>>>>>> d672e5e1864b1d8c0d44c585011cf9ea98c380d1
