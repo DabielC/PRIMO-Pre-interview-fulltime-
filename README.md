@@ -26,7 +26,7 @@
 
 1. ติดตั้งไลบรารีที่จำเป็น:
    ```bash
-   pip install -r requirements.txt  # ต้องมี numpy, pandas, pyarrow, tqdm
+   pip install -r requirements.txt  # ต้องมี numpy, pandas, pyarrow, tqdm, gdown
    ```
 2. สร้างชุดข้อมูล 10 ล้านแถว:
    ```bash
