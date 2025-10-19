@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 numpy
 pandas
 pyarrow
 tqdm
-=======
-numpy
-pandas
-pyarrow
-tqdm
->>>>>>> d672e5e1864b1d8c0d44c585011cf9ea98c380d1
 gdown
