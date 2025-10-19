@@ -2,4 +2,3 @@
 *.parquet
 *.csv
 *__pycache__/
-*.txt
